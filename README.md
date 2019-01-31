@@ -27,13 +27,16 @@ cd locadoravirtual
 ## Install dependencies
 
 ```
-npm install
+yarn install
+
 ```
 
 ## Serve with hot reload
 
 ```
-npm start
+yarn start
+
 ```
 
-> Aguarde alguns segundos para a compilação e o início do servidor.
+Aguarde alguns segundos para a compilação e o início do servidor.
+
